@@ -1,7 +1,7 @@
 # Deep-Learning
 A repository containing deep learning projects.
 
-Topics Covered:
+Topics:
 + LLMs
   - Preprocessing
   - Training
