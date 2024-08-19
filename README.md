@@ -12,8 +12,7 @@ Tools:
 
 Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
-+ PyTorch
-  - 
++ PyTorch 
  
 
 
