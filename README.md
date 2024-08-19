@@ -7,16 +7,14 @@ Topics:
   - Preprocessing
   - Training
   - Fine_Tuning
+
+Tools:
+
+Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
 + PyTorch
   - 
  
 
-Libraries:
 
-pytorch, pandas, numpy
-
-Tools:
-
-Ludwig, HuggingFace,  yaml, Mistral, torch
 
