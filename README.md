@@ -12,7 +12,7 @@ Topics:
 
   Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
-+ **PyTorch **
++ **PyTorch**
    - Differentiation
    - Computer Vision
    - Transformations
