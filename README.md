@@ -8,6 +8,7 @@ Topics:
   - Preprocessing
   - Training
   - Fine_Tuning
+
 Ludwig, transformers, HuggingFace, yaml, Mistral, torch
 
 
@@ -22,6 +23,7 @@ Ludwig, transformers, HuggingFace, yaml, Mistral, torch
    - Object Detection
    - Object Localization
    - Transformations
+
 torch, torch.nn, torchvision, torchvision.transforms, torchaudio, matplotlib, OpenCV
 
     
