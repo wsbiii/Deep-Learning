@@ -8,9 +8,9 @@ Topics:
   - Training
   - Fine_Tuning
 
-    Tools:
+  Tools:
 
-    Ludwig, transformers, HuggingFace, yaml, Mistral, torch
+  Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
 + PyTorch 
    - Differentiation
