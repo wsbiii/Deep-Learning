@@ -13,7 +13,11 @@ Topics:
     Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
 + PyTorch 
+   - Differentiation
+   - Computer Vision
+   - Transformations
  
+    Tools:
 
-
+    torch, torch.nn, torchvision, torchvision.transforms, torchaudio, matplotlib
 
