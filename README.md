@@ -21,6 +21,7 @@ Topics:
    - Computer Vision
    - Image Classification
    - Object Detection
+   - Object Localization
    - Transformations
  
     Tools:
