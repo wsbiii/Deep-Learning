@@ -3,7 +3,7 @@ A repository containing deep learning projects.
 
 Topics:
 
-+ LLMs
++ **LLMs**
   - Preprocessing
   - Training
   - Fine_Tuning
@@ -12,7 +12,7 @@ Topics:
 
   Ludwig, transformers, HuggingFace, yaml, Mistral, torch
  
-+ PyTorch 
++ **PyTorch **
    - Differentiation
    - Computer Vision
    - Transformations
