@@ -4,19 +4,15 @@ A repository containing deep learning projects.
 Topics:
 
 + **LLMs**
-  
-Ludwig, transformers, HuggingFace, yaml, Mistral, torch
   - Neural Networks
   - Preprocessing
   - Training
   - Fine_Tuning
-
+Ludwig, transformers, HuggingFace, yaml, Mistral, torch
 
 
  
 + **PyTorch**
-  
-torch, torch.nn, torchvision, torchvision.transforms, torchaudio, matplotlib, OpenCV
    - Differentiation
    - Neural Networks
      - CNN
@@ -26,7 +22,7 @@ torch, torch.nn, torchvision, torchvision.transforms, torchaudio, matplotlib, Op
    - Object Detection
    - Object Localization
    - Transformations
-
+torch, torch.nn, torchvision, torchvision.transforms, torchaudio, matplotlib, OpenCV
 
     
 
