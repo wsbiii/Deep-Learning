@@ -14,7 +14,9 @@ Topics:
  
 + **PyTorch**
    - Differentiation
+   - Neural Networks
    - Computer Vision
+   - Image Classification
    - Transformations
  
     Tools:
