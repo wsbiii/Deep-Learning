@@ -9,7 +9,7 @@ Topics:
   - Training
   - Fine_Tuning
 
-Ludwig, transformers, HuggingFace, yaml, Mistral, torch
+Llama3, Ludwig, LangChain, LangSmith, transformers, HuggingFace, yaml, Mistral, Tavily, Replicate, Groq, torch
 
 
  
